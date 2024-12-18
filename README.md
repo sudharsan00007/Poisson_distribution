@@ -1,5 +1,8 @@
-#exp2:  Fitting Poisson  distribution
+EXP2:  FITTING POISSON DISTRIBUTION
+
 DATE:05/10/2024
+
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
